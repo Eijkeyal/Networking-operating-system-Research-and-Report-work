@@ -13,43 +13,29 @@ The work explores how operating systems manage resources, facilitate communicati
 🖥️ Logbook 1: Process Management Research <br>
 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
 
-- Process Management (Creation, Scheduling, Termination)  
-- Inter-Process Communication (IPC)  
-- Process Synchronization & Deadlocks  
-- Memory Management  
-- File Systems  
-- Networking Protocols  
-- OS Security  
+
+
+# 🖥️ Logbook 1: Process Management Research
+## 🎯 Aim  
+To explore and understand the core concepts and mechanisms of Operating Systems, focusing on how they manage processes, memory, files, and networking functions in both standalone and networked environments.
+
+## 🧩 Objectives  
+- To study **process management**, including creation, scheduling, and termination.  
+- To understand **inter-process communication (IPC)** and its role in enabling process coordination.  
+- To analyze **process synchronization techniques** and identify causes and prevention of **deadlocks**.  
+- To examine **memory management strategies** used in modern operating systems.  
+- To explore the structure and functionality of **file systems**.  
+- To investigate **networking protocols** and how operating systems handle network communication.  
+- To evaluate **security mechanisms** implemented by operating systems to ensure data protection and system stability.  
 
 ---
 
-
-## 🧪 Usage
-This repository is suitable for:  
-- Students learning about operating systems  
-- Developers reviewing core OS concepts  
-- Educators seeking examples of academic or practical reports  
-
----
-
-## 👤 Author  
-**Eijkeyal Pakhrin**  
-- GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
-- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)  
-- Credly: [Eijkeyal Pakhrin](https://www.credly.com/users/eijkeyal-pakhrin)  
-
-> **Disclaimer:** This repository contains academic work completed for the *Network Operating Systems (NOS)* module.  
-> It is intended for educational and reference purposes only.
-
----
-
-# 🖥️ Logbook 1: Installation of Windows Server 2022 using Oracle VirtualBox
+# 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
 
 ## 🎯 Aim
 To install and configure Microsoft Windows Server 2022 on a virtual machine using Oracle VirtualBox for learning and testing server features in a virtualized environment.
 
 ---
-
 ## 📑 Objectives
 - To create and configure a virtual machine using Oracle VirtualBox.  
 - To install Microsoft Windows Server 2022 on a virtual environment.  
@@ -87,36 +73,33 @@ To install and configure Microsoft Windows Server 2022 on a virtual machine usin
 7. **Verify Installation** using Server Manager.
 
 ---
-
-## 🖼️ Figures
-- **Figure 1:** Allocating memory for the virtual machine.  
-- **Figure 2:** Creating a virtual hard disk in Oracle VirtualBox.  
-- **Figure 3:** Selecting language and region during installation.  
-- **Figure 4:** Powering on the VM to start installation.
-
----
-
 ## ✅ Conclusion
 Virtual machines are widely used because they are cost-effective, flexible, and easy to manage.  
 Using Oracle VirtualBox helps reduce hardware expenses, improve security, and simplify software deployment across different platforms.
 
 ---
 
+ ## 🧪 Usage
+This repository is suitable for:  
+- Students learning about operating systems  
+- Developers reviewing core OS concepts  
+- Educators seeking examples of academic or practical reports  
+
+---
+
+## 👤 Author  
+**Eijkeyal Pakhrin**  
+- GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
+- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)  
+- Credly: [Eijkeyal Pakhrin](https://www.credly.com/users/eijkeyal-pakhrin)
+
 ## 📚 Course Information
 **Module:** Network Operating Systems (NOS)  
 **Institution:** Islington College (Affiliated to London Metropolitan University)  
-**Student:** Eijkeyal Pakhrin  
+**Student:** Eijkeyal Pakhrin 
 
+> **Disclaimer:** This repository contains academic work completed for the *Network Operating Systems (NOS)* module.  
+> It is intended for educational and reference purposes only.
 
+---
 
-## 🎯 Aim  
-To explore and understand the core concepts and mechanisms of Operating Systems, focusing on how they manage processes, memory, files, and networking functions in both standalone and networked environments.
-
-## 🧩 Objectives  
-- To study **process management**, including creation, scheduling, and termination.  
-- To understand **inter-process communication (IPC)** and its role in enabling process coordination.  
-- To analyze **process synchronization techniques** and identify causes and prevention of **deadlocks**.  
-- To examine **memory management strategies** used in modern operating systems.  
-- To explore the structure and functionality of **file systems**.  
-- To investigate **networking protocols** and how operating systems handle network communication.  
-- To evaluate **security mechanisms** implemented by operating systems to ensure data protection and system stability.  
