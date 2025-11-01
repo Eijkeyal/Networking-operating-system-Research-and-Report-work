@@ -26,15 +26,15 @@ To explore and understand the core concepts and mechanisms of Operating Systems,
 - To examine **memory management strategies** used in modern operating systems.  
 - To explore the structure and functionality of **file systems**.  
 - To investigate **networking protocols** and how operating systems handle network communication.  
-- To evaluate **security mechanisms** implemented by operating systems to ensure data protection and system stability.  
+- To evaluate **security mechanisms** implemented by operating systems to ensure data protection and system stability.  <br>
 
-- Process Management (Creation, Scheduling, Termination)  
-- Inter-Process Communication (IPC)  
-- Process Synchronization & Deadlocks  
-- Memory Management  
-- File Systems  
-- Networking Protocols  
-- OS Security 
+1. Process Management (Creation, Scheduling, Termination)  
+2. Inter-Process Communication (IPC)
+3. Process Synchronization & Deadlocks
+4. Memory Management
+5. File Systems
+6. Networking Protocols
+7. OS Security 
 ---
 
 # 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
@@ -104,7 +104,7 @@ This repository is suitable for:
 **Module:** Network Operating Systems (NOS)  
 **Institution:** Islington College (Affiliated to London Metropolitan University)  
 **Student:** Eijkeyal Pakhrin 
----
-## Disclaimer:This repository contains academic work completed for the *Network Operating Systems (NOS)* module.  
+
+**Disclaimer**:This repository contains academic work completed for the *Network Operating Systems (NOS)* module.  
 It is intended for educational and reference purposes only.
 
