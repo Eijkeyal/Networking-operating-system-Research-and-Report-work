@@ -28,6 +28,13 @@ To explore and understand the core concepts and mechanisms of Operating Systems,
 - To investigate **networking protocols** and how operating systems handle network communication.  
 - To evaluate **security mechanisms** implemented by operating systems to ensure data protection and system stability.  
 
+- Process Management (Creation, Scheduling, Termination)  
+- Inter-Process Communication (IPC)  
+- Process Synchronization & Deadlocks  
+- Memory Management  
+- File Systems  
+- Networking Protocols  
+- OS Security 
 ---
 
 # 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
@@ -98,6 +105,6 @@ This repository is suitable for:
 **Institution:** Islington College (Affiliated to London Metropolitan University)  
 **Student:** Eijkeyal Pakhrin 
 
-##Disclaimer:This repository contains academic work completed for the *Network Operating Systems (NOS)* module.  
+## Disclaimer:This repository contains academic work completed for the *Network Operating Systems (NOS)* module.  
 It is intended for educational and reference purposes only.
 
