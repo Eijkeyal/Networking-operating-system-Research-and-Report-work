@@ -10,8 +10,8 @@ This repository includes a collection of research reports and practical analyses
 The work explores how operating systems manage resources, facilitate communication, and ensure stability — especially in networked environments.
 
 ## 🧩 Topics Covered
-# 🖥️ Logbook 1: Process Management Research
-# 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
+🖥️ Logbook 1: Process Management Research
+🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
 
 - Process Management (Creation, Scheduling, Termination)  
 - Inter-Process Communication (IPC)  
