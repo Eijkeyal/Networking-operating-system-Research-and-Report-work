@@ -18,7 +18,8 @@ The work explores how operating systems manage resources, facilitate communicati
 
 # 🖥️ Logbook 1: Process Management Research
 
-**📁 File:** `logbook1-process-management.pdf` 
+**📁 File:** `logbook1-process-management.pdf`
+
 **📄 PDF:** [View Full PDF Here](./logbooks/logbook1-process-management.pdf)
 
 ## 🎯 Aim  
