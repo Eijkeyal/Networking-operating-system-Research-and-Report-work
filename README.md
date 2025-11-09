@@ -11,7 +11,7 @@ The work explores how operating systems manage resources, facilitate communicati
 
 ## 🧩 Topics Covered
 🖥️ Logbook 1: Process Management Research <br>
-🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
+🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox<br>
 🖥️ Logbook 3: Windows Server Basic Administration
 
 
@@ -94,6 +94,44 @@ This repository is suitable for:
 - Educators seeking examples of academic or practical reports  
 
 ---
+# 🖥️ Logbook 1: Process Management Research
+## 🎯 Aim  
+To familiarize users with fundamental Windows Server management tasks in a Windows Server environment using both Graphical User Interface (GUI) and PowerShell.
+
+## 📑 Objectives
+-To use Server Manager to configure basic server settings.
+
+-To change the server’s name and set the time zone.
+
+To enable Remote Desktop for remote access.
+
+To configure a static IP address and DNS settings.
+
+To disable IE Enhanced Security and check for Windows Updates.
+
+To add and remove user accounts using both GUI and PowerShell.
+
+To securely store and use passwords via PowerShell secure strings.
+
+Understand Server Manager
+
+Rename the Server
+
+Enable Remote Desktop
+
+Configure Static IP Address
+
+Change Time Zone
+
+Disable IE Enhanced Security & Check for Updates
+
+Add User via GUI
+
+Add User via PowerShell
+
+Remove User via PowerShell
+
+Store Passwords Securely in PowerShell
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
