@@ -121,6 +121,10 @@ To familiarize users with fundamental Windows Server management tasks in a Windo
 9. Remove User via PowerShell
 10. Store Passwords Securely in PowerShell
 
+
+## ✅ Conclusion
+This logbook provided a practical guide to fundamental Windows Server administration. It covered essential tasks like server renaming, Remote Desktop setup, static IP configuration, and user management. The workshop highlighted the use of both the Graphical User Interface (GUI) for ease of use and PowerShell for efficiency and automation. Completing these exercises has built a solid foundation in server management, preparing for more advanced network administration tasks. The hands-on experience confirms the ability to perform basic server configuration and user management operations confidently.
+
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
