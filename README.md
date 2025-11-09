@@ -20,7 +20,7 @@ The work explores how operating systems manage resources, facilitate communicati
 
 **📁 File:** `logbook1-process-management.pdf`
 
-**📄 PDF:** [View Full PDF Here](./logbooks/logbook1-process-management.pdf)
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Process%20Management%20Research.pdf)
 
 ## 🎯 Aim  
 To explore and understand the core concepts and mechanisms of Operating Systems, focusing on how they manage processes, memory, files, and networking functions in both standalone and networked environments.
