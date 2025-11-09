@@ -103,35 +103,35 @@ To familiarize users with fundamental Windows Server management tasks in a Windo
 
 -To change the server’s name and set the time zone.
 
-To enable Remote Desktop for remote access.
+-To enable Remote Desktop for remote access.
 
-To configure a static IP address and DNS settings.
+-To configure a static IP address and DNS settings.
 
-To disable IE Enhanced Security and check for Windows Updates.
+-To disable IE Enhanced Security and check for Windows Updates.
 
-To add and remove user accounts using both GUI and PowerShell.
+-To add and remove user accounts using both GUI and PowerShell.
 
-To securely store and use passwords via PowerShell secure strings.
+-To securely store and use passwords via PowerShell secure strings.
 
-Understand Server Manager
+-Understand Server Manager
 
-Rename the Server
+-Rename the Server
 
-Enable Remote Desktop
+-Enable Remote Desktop
 
-Configure Static IP Address
+-Configure Static IP Address
 
-Change Time Zone
+-Change Time Zone
 
-Disable IE Enhanced Security & Check for Updates
+-Disable IE Enhanced Security & Check for Updates
 
-Add User via GUI
+-Add User via GUI
 
-Add User via PowerShell
+-Add User via PowerShell
 
-Remove User via PowerShell
+-Remove User via PowerShell
 
-Store Passwords Securely in PowerShell
+-Store Passwords Securely in PowerShell
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
