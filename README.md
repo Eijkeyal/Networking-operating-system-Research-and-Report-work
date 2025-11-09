@@ -45,6 +45,10 @@ To explore and understand the core concepts and mechanisms of Operating Systems,
 
 # 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
 
+**📁 File:** `logbook1-process-management.pdf`
+
+**📄 PDF:** [View Full PDF Here](./logbooks/logbook1-process-management.pdf)
+
 ## 🎯 Aim
 To install and configure Microsoft Windows Server 2022 on a virtual machine using Oracle VirtualBox for learning and testing server features in a virtualized environment.
 
@@ -100,6 +104,10 @@ This repository is suitable for:
 
 ---
 # 🖥️ Logbook 1: Windows Server Basic Administration
+
+**📁 File:** `logbook1-process-management.pdf`
+
+**📄 PDF:** [View Full PDF Here](./logbooks/logbook1-process-management.pdf)
 
 ## 🎯 Aim  
 To familiarize users with fundamental Windows Server management tasks in a Windows Server environment using both Graphical User Interface (GUI) and PowerShell.
