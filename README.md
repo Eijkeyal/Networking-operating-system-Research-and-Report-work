@@ -107,7 +107,7 @@ This repository is suitable for:
 
 **📁 File:** `logbook1-process-management.pdf`
 
-**📄 PDF:** [View Full PDF Here](./logbooks/logbook1-process-management.pdf)
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/windows-server-basic-administration.pdf)
 
 ## 🎯 Aim  
 To familiarize users with fundamental Windows Server management tasks in a Windows Server environment using both Graphical User Interface (GUI) and PowerShell.
