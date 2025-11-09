@@ -99,39 +99,26 @@ This repository is suitable for:
 To familiarize users with fundamental Windows Server management tasks in a Windows Server environment using both Graphical User Interface (GUI) and PowerShell.
 
 ## 📑 Objectives
--To use Server Manager to configure basic server settings.
+- Use Server Manager to configure basic server settings
+- Change the server's name and set the time zone
+- Enable Remote Desktop for remote access
+- Configure a static IP address and DNS settings
+- Disable IE Enhanced Security and check for Windows Updates
+- Add and remove user accounts using both GUI and PowerShell
+- Securely store and use passwords via PowerShell secure strings
+  
 
--To change the server’s name and set the time zone.
-
--To enable Remote Desktop for remote access.
-
--To configure a static IP address and DNS settings.
-
--To disable IE Enhanced Security and check for Windows Updates.
-
--To add and remove user accounts using both GUI and PowerShell.
-
--To securely store and use passwords via PowerShell secure strings.
-
--Understand Server Manager
-
--Rename the Server
-
--Enable Remote Desktop
-
--Configure Static IP Address
-
--Change Time Zone
-
--Disable IE Enhanced Security & Check for Updates
-
--Add User via GUI
-
--Add User via PowerShell
-
--Remove User via PowerShell
-
--Store Passwords Securely in PowerShell
+📋 Tasks Completed
+1. Understand Server Manager
+2. Rename the Server
+3. Enable Remote Desktop
+4. Configure Static IP Address
+5. Change Time Zone
+6. Disable IE Enhanced Security & Check for Updates
+7. Add User via GUI
+8. Add User via PowerShell
+9. Remove User via PowerShell
+10. Store Passwords Securely in PowerShell
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
