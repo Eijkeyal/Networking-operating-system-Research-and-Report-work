@@ -12,6 +12,7 @@ The work explores how operating systems manage resources, facilitate communicati
 ## 🧩 Topics Covered
 🖥️ Logbook 1: Process Management Research <br>
 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
+🖥️ Logbook 3: Windows Server Basic Administration
 
 
 
