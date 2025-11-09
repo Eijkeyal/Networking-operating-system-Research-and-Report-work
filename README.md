@@ -16,7 +16,7 @@ The work explores how operating systems manage resources, facilitate communicati
 
 
 
-# 🖥️ Logbook 1: Process Management Research
+# 🖥️ Logbook 3: Process Management Research
 ## 🎯 Aim  
 To explore and understand the core concepts and mechanisms of Operating Systems, focusing on how they manage processes, memory, files, and networking functions in both standalone and networked environments.
 
@@ -94,7 +94,8 @@ This repository is suitable for:
 - Educators seeking examples of academic or practical reports  
 
 ---
-# 🖥️ Logbook 1: Process Management Research
+# 🖥️ Logbook 1: Windows Server Basic Administration
+
 ## 🎯 Aim  
 To familiarize users with fundamental Windows Server management tasks in a Windows Server environment using both Graphical User Interface (GUI) and PowerShell.
 
