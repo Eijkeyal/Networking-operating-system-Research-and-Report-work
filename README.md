@@ -45,9 +45,10 @@ To explore and understand the core concepts and mechanisms of Operating Systems,
 
 # 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox
 
-**📁 File:** `logbook1-process-management.pdf`
+**📁 File:** `Installation of Windows Server 2022 using Oracle VirtualBox
+`
 
-**📄 PDF:** [View Full PDF Here](./logbooks/logbook1-process-management.pdf)
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Installing%20Windows%20Server%202022%20using%20Oracle%20Virtual%20Box.pdf)
 
 ## 🎯 Aim
 To install and configure Microsoft Windows Server 2022 on a virtual machine using Oracle VirtualBox for learning and testing server features in a virtualized environment.
@@ -105,7 +106,7 @@ This repository is suitable for:
 ---
 # 🖥️ Logbook 1: Windows Server Basic Administration
 
-**📁 File:** `logbook1-process-management.pdf`
+**📁 File:** ` Windows Server Basic Administration`
 
 **📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/windows-server-basic-administration.pdf)
 
