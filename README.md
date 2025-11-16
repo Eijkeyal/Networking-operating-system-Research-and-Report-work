@@ -150,6 +150,13 @@ This logbook provided a practical guide to fundamental Windows Server administra
 To set up a Windows Server 2022 environment for hosting a static website by installing and configuring the necessary roles and features.
 
 ---
+## 📑 Objectives
+- To set up and configure Windows Server for hosting a website
+- To configure a new website using Internet Information Services (IIS)
+- To deploy a website by specifying its physical path
+- To successfully access the hosted static website using a custom hostname (Eijkeyal.local)
+
+---
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
