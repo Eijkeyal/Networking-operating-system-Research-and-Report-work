@@ -13,7 +13,7 @@ The work explores how operating systems manage resources, facilitate communicati
 🖥️ Logbook 1: Process Management Research <br>
 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox<br>
 🖥️ Logbook 3: Windows Server Basic Administration<br>
-🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022
+🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022<br>
 
 
 # 🖥️ Logbook 1: Process Management Research
@@ -138,6 +138,14 @@ To familiarize users with fundamental Windows Server management tasks in a Windo
 
 ## ✅ Conclusion
 This logbook provided a practical guide to fundamental Windows Server administration. It covered essential tasks like server renaming, Remote Desktop setup, static IP configuration, and user management. The workshop highlighted the use of both the Graphical User Interface (GUI) for ease of use and PowerShell for efficiency and automation. Completing these exercises has built a solid foundation in server management, preparing for more advanced network administration tasks. The hands-on experience confirms the ability to perform basic server configuration and user management operations confidently.
+
+
+# 🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022
+
+**📁 File:** Hosting a Static Website on Windows Server 2022  
+**📄 PDF:** [View Full PDF Here](24058849Eijkeyal_Pakhrin_LogBook_4.pdf)
+
+---
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
