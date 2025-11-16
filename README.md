@@ -167,6 +167,15 @@ To set up a Windows Server 2022 environment for hosting a static website by inst
 - **Web Browser** (Microsoft Edge) - For testing the hosted website
 - **Static Website Template** - Downloaded from templatemo.com
 
+### Key Concepts
+- **Static Website** - Built with HTML, CSS, JavaScript, and images
+- **Web Server (IIS)** - Software that handles web requests and delivers webpages
+- **Site Binding** - Configuration telling IIS to listen on specific ports (Port 80)
+- **Physical Path** - Actual folder location where website files are stored
+- **Hosts File** - Local text file that maps IP addresses to hostnames
+
+---
+
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
