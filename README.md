@@ -195,6 +195,10 @@ To set up a Windows Server 2022 environment for hosting a static website by inst
 12. **Test Website** - Browse to `Eijkeyal.local` in web browser
 
 ---
+## ✅ Conclusion
+This workshop successfully demonstrated how to configure the Web Server role on Windows Server 2022 to host a static website. The website is now live and accessible via the domain name `Eijkeyal.local` in a web browser, showcasing practical web hosting skills in a server environment.
+
+---
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
