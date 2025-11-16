@@ -146,6 +146,10 @@ This logbook provided a practical guide to fundamental Windows Server administra
 **📄 PDF:** [View Full PDF Here](24058849Eijkeyal_Pakhrin_LogBook_4.pdf)
 
 ---
+## 🎯 Aim
+To set up a Windows Server 2022 environment for hosting a static website by installing and configuring the necessary roles and features.
+
+---
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
