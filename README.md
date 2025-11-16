@@ -200,6 +200,15 @@ This workshop successfully demonstrated how to configure the Web Server role on 
 
 ---
 
+## 🧪 Usage
+This repository is suitable for:
+
+- **Students** learning network operating systems and web hosting
+- **IT Professionals** setting up and configuring web servers
+- **Educators** teaching server management and web deployment
+- **Developers** learning static website deployment on Windows Server
+- **System Administrators** reviewing IIS configuration procedures
+
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
