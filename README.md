@@ -143,6 +143,7 @@ This logbook provided a practical guide to fundamental Windows Server administra
 # 🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022
 
 **📁 File:** ` Hosting a Static Website on Windows Server 2022  `
+
 **📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Hosting%20a%20Static%20Website%20on%20Windows%20Server%202022.pdf)
 
 ---
