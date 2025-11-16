@@ -157,6 +157,15 @@ To set up a Windows Server 2022 environment for hosting a static website by inst
 - To successfully access the hosted static website using a custom hostname (Eijkeyal.local)
 
 ---
+## 🧰 Required Tools and Concepts
+
+### Software & Tools
+- **Windows Server 2022** - Operating system with administrative access
+- **Server Manager** - Main dashboard for adding roles and features
+- **Internet Information Services (IIS) Manager** - Tool for creating and managing websites
+- **Notepad** - Text editor for modifying host files
+- **Web Browser** (Microsoft Edge) - For testing the hosted website
+- **Static Website Template** - Downloaded from templatemo.com
 
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
