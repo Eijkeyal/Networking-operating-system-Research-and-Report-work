@@ -176,6 +176,26 @@ To set up a Windows Server 2022 environment for hosting a static website by inst
 
 ---
 
+## ⚙️ Configuration Steps
+
+1. **Open Server Manager Dashboard** and click "Add Roles and Features"
+2. **Select Installation Type** - Choose "Role-based or feature-based installation"
+3. **Select Destination Server** - Choose the target server for installation
+4. **Select Server Roles** - Find and tick "Web Server (IIS)"
+5. **Add Required Features** - Click "Add Features" when prompted
+6. **Complete Installation** - Follow through with default options
+7. **Restart Server** - Allow the system to restart if required
+8. **Open IIS Manager** - Access through Server Manager Tools menu
+9. **Add New Website** - Right-click on Sites and select "Add Website"
+10. **Configure Website**:
+    - Site Name: `Eijkeyal.local`
+    - Physical Path: Select extracted website folder
+    - Host Name: `Eijkeyal.local`
+11. **Edit Hosts File** - Add `127.0.0.1 Eijkeyal.local` to C:\Windows\System32\drivers\etc\hosts
+12. **Test Website** - Browse to `Eijkeyal.local` in web browser
+
+---
+
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
