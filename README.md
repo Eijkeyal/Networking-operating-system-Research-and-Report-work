@@ -14,6 +14,7 @@ The work explores how operating systems manage resources, facilitate communicati
 🖥️ Logbook 2: Installation of Windows Server 2022 using Oracle VirtualBox<br>
 🖥️ Logbook 3: Windows Server Basic Administration<br>
 🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022<br>
+🖥️ Workshop 5: Web Hosting & Remote Access on Windows Server 2022<br>
 
 
 # 🖥️ Logbook 1: Process Management Research
