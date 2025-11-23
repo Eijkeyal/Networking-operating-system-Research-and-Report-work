@@ -222,6 +222,13 @@ To configure Windows Server 2022 for hosting static websites and enabling remote
 
 ## 🧰 Required Tools
 
+### Software
+- **Oracle VirtualBox** - Virtualization platform
+- **VirtualBox Extension Pack** - Enhanced RDP features
+- **Windows Server 2022** - Guest OS
+- **IIS** - Web server role
+- **Static Website Files** - HTML/CSS/JS files
+
 ### Hardware
 - **Processor** - 64-bit with virtualization support
 - **RAM** - 4 GB minimum (8 GB recommended)
