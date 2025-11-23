@@ -205,7 +205,7 @@ This workshop successfully demonstrated how to configure the Web Server role on 
 
 **📁 File:** ` Web Hosting & Remote Access on Windows Server 2022`
 
-**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/tree/main/Network%20Opreating%20system)
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Hosting%20and%20Remote%20Access%20on%20Windows%20Server%202022.pdf)
 
 ## 🎯 Aim
 To configure Windows Server 2022 for hosting static websites and enabling remote desktop access in a virtualized environment.
