@@ -211,6 +211,16 @@ This workshop successfully demonstrated how to configure the Web Server role on 
 To configure Windows Server 2022 for hosting static websites and enabling remote desktop access in a virtualized environment.
 
 ---
+## 📑 Objectives
+- Host a static website using IIS on Windows Server 2022
+- Configure bridged networking for LAN accessibility  
+- Access website from host OS and other LAN devices
+- Enable Remote Desktop Protocol (RDP) on Windows Server
+- Establish remote connection from host to guest OS
+
+---
+
+## 🧰 Required Tools
 
 
 ## 🧪 Usage
