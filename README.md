@@ -222,6 +222,37 @@ To configure Windows Server 2022 for hosting static websites and enabling remote
 
 ## 🧰 Required Tools
 
+### Hardware
+- **Processor** - 64-bit with virtualization support
+- **RAM** - 4 GB minimum (8 GB recommended)
+- **Network Adapter** - For bridged networking
+- **Multiple Devices** - For testing accessibility
+
+---
+
+## ⚙️ Lab Steps
+1. Configure Bridged Adapter network settings
+2. Place website files in appropriate directory
+3. Setup website in IIS Manager
+4. Test accessibility from host and LAN devices
+5. Install VirtualBox Extension Pack
+6. Enable Remote Display in VirtualBox
+7. Establish RDP connection from host OS
+8. Verify remote access functionality
+
+---
+## ✅ Conclusion
+Successfully demonstrated web hosting and remote administration capabilities on Windows Server 2022, providing practical experience in essential server management tasks using virtualization technology.
+
+---
+
+## 🧪 Usage
+Suitable for:
+- IT students learning server administration
+- System administrators practicing virtualization
+- Network engineers understanding service hosting
+- Educators demonstrating server configuration
+
 
 ## 🧪 Usage
 This repository is suitable for:
