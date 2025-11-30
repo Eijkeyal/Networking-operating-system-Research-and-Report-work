@@ -254,6 +254,8 @@ Successfully demonstrated web hosting and remote administration capabilities on 
 
 ---
 
+# 🖥️ Logbook 6: Introduction to Active Directory and Domain Controller Setup
+
 ## 🧪 Usage
 This repository is suitable for:
 
