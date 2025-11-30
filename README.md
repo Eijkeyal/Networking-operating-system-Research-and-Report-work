@@ -260,7 +260,7 @@ Successfully demonstrated web hosting and remote administration capabilities on 
 
 **📁 File:** `Introduction To Active Directory and Domain Controller Setup.pdf`
 
-**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Operating%20System/Introduction%20To%20Active%20Directory%20and%20Domain%20Controller%20Setup.pdf)
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Introduction%20To%20Active%20Directory%20and%20Domain%20Controller%20Setup.pdf)
 
 ## 🎯 Aim
 To install and configure an Active Directory Domain Controller on Windows Server 2022 and confirm or verify the successful installation.
