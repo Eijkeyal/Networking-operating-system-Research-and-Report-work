@@ -289,6 +289,26 @@ To install and configure an Active Directory Domain Controller on Windows Server
 
 ---
 
+## ⚙️ Configuration Steps
+1. Open Windows Server Manager Dashboard.  
+2. Click on **Add Roles and Features**.  
+3. Select **Role-based or feature-based installation**.  
+4. Choose a server from the server pool.  
+5. Select **Active Directory Domain Services** from Server Roles.  
+6. Add required features and tools.  
+7. Install AD DS and promote the server to a domain controller.  
+8. Configure a new forest and set the root domain name.  
+9. Set the DSRM password and configure DNS options.  
+10. Verify NetBIOS name and review installation paths.  
+11. Complete prerequisites check and begin installation.  
+12. Verify the Domain Controller using PowerShell commands such as:
+    - `Get-Service adws,kdc,netlogon,dns`
+    - `Get-ADDomainController`
+    - `Get-ADDomain Eijkeyal.com`
+    - `Get-ADForest Eijkeyal.com`
+
+---
+
 ## 🧪 Usage
 This repository is suitable for:
 
