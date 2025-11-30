@@ -15,6 +15,8 @@ The work explores how operating systems manage resources, facilitate communicati
 🖥️ Logbook 3: Windows Server Basic Administration<br>
 🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022<br>
 🖥️ Logbook 5: Web Hosting & Remote Access on Windows Server 2022<br>
+🖥️ Logbook 6: Introduction to Active Directory and Domain Controller Setup<br>
+
 
 
 # 🖥️ Logbook 1: Process Management Research
