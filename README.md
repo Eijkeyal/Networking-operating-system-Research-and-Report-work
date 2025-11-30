@@ -309,14 +309,6 @@ To install and configure an Active Directory Domain Controller on Windows Server
 
 ---
 
-## 🧪 Usage
-This repository is suitable for:  
-- Students learning about network operating systems and directory services  
-- IT professionals setting up or managing Active Directory environments  
-- Educators seeking practical examples of Domain Controller configuration  
-- Anyone preparing for Windows Server or Active Directory certification exams  
-
-
 ## ✅ Conclusion
 This logbook successfully demonstrates the configuration and implementation of an Active Directory Domain Controller on Windows Server 2022. The process included installing the AD DS role, promoting the server, defining a new forest and domain, and verifying the setup using PowerShell commands to ensure all essential services were running correctly.
 
