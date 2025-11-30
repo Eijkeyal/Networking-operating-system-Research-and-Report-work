@@ -264,6 +264,13 @@ Successfully demonstrated web hosting and remote administration capabilities on 
 To install and configure an Active Directory Domain Controller on Windows Server 2022 and confirm or verify the successful installation.
 
 ---
+## 📑 Objectives
+- To understand the role and importance of Active Directory in a network environment.  
+- To install Active Directory Domain Services (AD DS) on Windows Server 2022.  
+- To configure essential settings such as Domain name, NetBIOS, and Directory Services Restore Mode (DSRM) passwords.  
+- To verify the successful installation of the Domain Controller using Windows PowerShell commands.
+
+---
 
 ## 🧪 Usage
 This repository is suitable for:
