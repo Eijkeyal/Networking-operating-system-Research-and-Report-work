@@ -271,6 +271,15 @@ To install and configure an Active Directory Domain Controller on Windows Server
 - To verify the successful installation of the Domain Controller using Windows PowerShell commands.
 
 ---
+## 🧰 Required Tools and Software
+
+### Software Requirements
+- **Windows Server 2022** – Operating system platform.  
+- **Server Manager** – Management console for server roles and features.  
+- **Active Directory Domain Services (AD DS)** – Directory service for managing network resources.  
+- **Windows PowerShell** – Command-line tool for administration and verification.
+
+---
 
 ## 🧪 Usage
 This repository is suitable for:
