@@ -280,6 +280,14 @@ To install and configure an Active Directory Domain Controller on Windows Server
 - **Windows PowerShell** – Command-line tool for administration and verification.
 
 ---
+## 🔑 Key Concepts
+- **Active Directory (AD)**: A directory service for managing network resources such as users, computers, and printers.  
+- **Domain Controller (DC)**: A server that handles authentication requests within a domain.  
+- **Forest**: The top-level logical container in Active Directory.  
+- **NetBIOS Name**: A legacy naming system used for network identification.  
+- **PowerShell**: Command-line tool used to manage and verify AD services (e.g., `Get-ADDomain`, `Get-ADForest`).
+
+---
 
 ## 🧪 Usage
 This repository is suitable for:
