@@ -315,7 +315,36 @@ To install and configure an Active Directory Domain Controller on Windows Server
 This logbook successfully demonstrates the configuration and implementation of an Active Directory Domain Controller on Windows Server 2022. The process included installing the AD DS role, promoting the server, defining a new forest and domain, and verifying the setup using PowerShell commands to ensure all essential services were running correctly.
 
 ---
+# 📘 Logbook 7: Introduction to Linux File & System Management  
 
+**📁 File:** `Introduction to Linux File management System Management.pdf`  
+**📝 Author:** Eijkeyal Pakhrin  
+**📅 Submission:** December 9, 2025  
+**👨‍🏫 Submitted To:** Nischal Pradhan  
+
+---
+
+## 🎯 Aim  
+This logbook helps students understand and practice essential Linux commands required for navigating the system and working with files.
+
+---
+
+## 📑 Objectives  
+- Identify and use basic Linux commands for user identification and system information  
+- Explore files and directories using different listing options  
+- View the contents of system files using commands like `ls` and `cat`  
+- Learn to create files and directories in the Linux terminal  
+
+---
+
+## 🔧 Configuration Steps Covered  
+
+### 4.1 View Your Username  
+- **Command:** `whoami`  
+- **Example:**  
+  ```bash
+  Eijkeyal@DELL:~$ whoami
+  Eijkeyal
 
 ## 🧪 Usage
 This repository is suitable for:
