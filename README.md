@@ -349,7 +349,7 @@ Command: who
 
 Example:
 
-bash
+```bash
 Eijkeyal@DELL:~$ who
 Eijkeyal pts/1    2025-12-05 05:50
 
@@ -398,47 +398,8 @@ Example:
 bash
 Eijkeyal@DELL:~$ who
 Eijkeyal pts/1    2025-12-05 05:50
+```
 
-### 4.3 Get Detailed User Information
-Command: finger
-
-Example:
-
-bash
-Eijkeyal@DELL:~$ finger Eijkeyal
-4.4 Check System Date & Time
-Command: date
-
-Example:
-
-bash
-Eijkeyal@DELL:~$ date
-Fri Dec  5 05:56:52 AM UTC 2025
-
-### 4.5 List Files in Current Directory
-Command: ls (normal files)
-
-Example:
-
-bash
-Eijkeyal@DELL:~$ ls
-File1 File2 Folder Obj1
-
-### 4.6 View Hidden Files & Details
-Commands:
-
-ls -a → shows hidden files
-
-ls -a -l → shows hidden files with detailed information
-
-### 4.7 View File Contents
-Command: cat /etc/passwd → displays user account information
-
-### 4.8 Create & Combine Files
-Command: echo → create a file
-
-Command: cat file1 file2 >> file3 → combine files
- 
 
 ## 🧪 Usage
 This repository is suitable for:
