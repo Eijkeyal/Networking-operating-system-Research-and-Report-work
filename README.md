@@ -352,33 +352,32 @@ Example:
 ```bash
 Eijkeyal@DELL:~$ who
 Eijkeyal pts/1    2025-12-05 05:50
+```
 
 ### 4.3 Get Detailed User Information
 Command: finger
 
 Example:
 
-bash
+```bash
 Eijkeyal@DELL:~$ finger Eijkeyal
-
+```
 ### 4.4 Check System Date & Time
 Command: date
-
 Example:
-
-bash
+```bash
 Eijkeyal@DELL:~$ date
 Fri Dec  5 05:56:52 AM UTC 2025
-
+```
 ### 4.5 List Files in Current Directory
 Command: ls (normal files)
 
 Example:
 
-bash
+```bash
 Eijkeyal@DELL:~$ ls
 File1 File2 Folder Obj1
-
+```
 ### 4.6 View Hidden Files & Details
 Commands:
 
@@ -395,7 +394,7 @@ Command: echo → create a file
 Command: cat file1 file2 >> file3 → combine files
 Example:
 
-bash
+```bash
 Eijkeyal@DELL:~$ who
 Eijkeyal pts/1    2025-12-05 05:50
 ```
