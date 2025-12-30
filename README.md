@@ -318,9 +318,8 @@ This logbook successfully demonstrates the configuration and implementation of a
 # 📘 Logbook 7: Introduction to Linux File & System Management  
 
 **📁 File:** `Introduction to Linux File management System Management.pdf`  
-**📝 Author:** Eijkeyal Pakhrin  
-**📅 Submission:** December 9, 2025  
-**👨‍🏫 Submitted To:** Nischal Pradhan  
+
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Process%20Management%20Research.pdf)
 
 ---
 
@@ -342,9 +341,55 @@ This logbook helps students understand and practice essential Linux commands req
 ### 4.1 View Your Username  
 - **Command:** `whoami`  
 - **Example:**  
-  ```bash
+  ```
   Eijkeyal@DELL:~$ whoami
   Eijkeyal
+  4.2 View Users Currently Logged In
+Command: who
+
+Example:
+
+bash
+Eijkeyal@DELL:~$ who
+Eijkeyal pts/1    2025-12-05 05:50
+4.3 Get Detailed User Information
+Command: finger
+
+Example:
+
+bash
+Eijkeyal@DELL:~$ finger Eijkeyal
+4.4 Check System Date & Time
+Command: date
+
+Example:
+
+bash
+Eijkeyal@DELL:~$ date
+Fri Dec  5 05:56:52 AM UTC 2025
+4.5 List Files in Current Directory
+Command: ls (normal files)
+
+Example:
+
+bash
+Eijkeyal@DELL:~$ ls
+File1 File2 Folder Obj1
+4.6 View Hidden Files & Details
+Commands:
+
+ls -a → shows hidden files
+
+ls -a -l → shows hidden files with detailed information
+
+4.7 View File Contents
+Command: cat /etc/passwd → displays user account information
+
+4.8 Create & Combine Files
+Command: echo → create a file
+
+Command: cat file1 file2 >> file3 → combine files
+ 
 
 ## 🧪 Usage
 This repository is suitable for:
