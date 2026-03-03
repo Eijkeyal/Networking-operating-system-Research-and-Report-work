@@ -16,7 +16,9 @@ The work explores how operating systems manage resources, facilitate communicati
 🖥️ Logbook 4: Hosting a Static Website on Windows Server 2022<br>
 🖥️ Logbook 5: Web Hosting & Remote Access on Windows Server 2022<br>
 🖥️ Logbook 6: Introduction to Active Directory and Domain Controller Setup<br>
-
+🖥️ Logbook 7: Introduction to Active Directory and Domain Controller Setup<br>
+🖥️ Logbook 8: Linux Operating System and its Commnds<br>
+🖥️ Logbook 9: Customizations of Linux Commnads<br>
 
 
 # 🖥️ Logbook 1: Process Management Research
@@ -398,6 +400,130 @@ Example:
 Eijkeyal@DELL:~$ who
 Eijkeyal pts/1    2025-12-05 05:50
 ```
+# 🐧 Logbook 8: Linux Operating System File Handling Commands  
+
+**📁 File:** `Linux Operating System File Handling Commands`  
+
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Linux%20Operating%20System%20File%20Handling%20Commands.pdf)  
+
+---
+
+## 🎯 Aim  
+To create, manage, and manipulate files and directories using UNIX/Linux utilities and understand how file permissions work in Linux.
+
+---
+
+## 📑 Objectives  
+- Create nested directory structures using `mkdir -p`  
+- Navigate directories using relative and absolute pathnames (`.` and `..`)  
+- Create, copy, move, and display files using basic Linux commands  
+- Delete files and directories using `rm` and `rmdir`  
+- View and modify file permissions for users, groups, and others using `chmod`  
+
+---
+
+## 📋 Tasks Completed  
+
+1. Created nested directories using `mkdir`  
+2. Changed directory using relative pathnames  
+3. Navigated between directories using `.` and `..`  
+4. Created a text file using `nano`  
+5. Displayed contents of multiple files using `cat`  
+6. Copied files using `cp`  
+7. Moved files between directories using `mv`  
+8. Printed text into different lines within a file  
+9. Used `ls` command in different modes (`-l`, `-a`)  
+10. Removed files and directories using interactive options (`rm -i`, `rmdir`)  
+11. Manipulated file and directory permissions using `chmod`  
+
+---
+
+## 🛠️ Commands Practiced  
+
+- `mkdir` – Create directories  
+- `cd` – Change directory  
+- `ls` – List directory contents  
+- `nano` – Create and edit text files  
+- `cat` – Display file contents  
+- `cp` – Copy files  
+- `mv` – Move or rename files  
+- `rm` / `rmdir` – Remove files and directories  
+- `chmod` – Change file permissions  
+
+---
+
+## ✅ Conclusion  
+
+This logbook provided practical experience with essential UNIX/Linux commands related to directory handling, file management, and permission control. The workshop strengthened foundational skills required for system administration, scripting, and network operating system management.  
+
+By completing these exercises, a solid understanding of file and directory operations in Linux was developed, forming a strong base for advanced system and server administration tasks.
+
+# 🐧 Logbook 9: Customizations of Linux Commands  
+
+**📁 File:** `Customizations of Linux Commands`  
+
+**📄 PDF:** [View Full PDF Here](https://github.com/Eijkeyal/Networking-operating-system-Research-and-Report-work/blob/main/Network%20Opreating%20system/Customizations%20of%20Linux%20Commands.pdf)  
+
+---
+
+## 🎯 Aim  
+To gain practical experience in using UNIX utilities for directory management, file creation, text processing, command aliasing, and command history manipulation.
+
+---
+
+## 📑 Objectives  
+- Create and navigate directory structures using UNIX commands  
+- Create and manage files using the `cat` command  
+- Understand and apply different options of the `grep` utility  
+- Define, use, remove, and preserve command aliases  
+- Explore command history and re-execution features in UNIX  
+
+---
+
+## 📋 Tasks Completed  
+
+1. Created the required directory structure using `mkdir -p`  
+2. Navigated directories using relative path with `cd`  
+3. Created files (`testa`, `testb`) using `cat` with input redirection  
+4. Used `grep` to display lines containing specific patterns  
+5. Displayed lines not containing a pattern using `grep -v`  
+6. Displayed matching lines with line numbers using `grep -n`  
+7. Displayed file names containing matching patterns using `grep -l`  
+8. Performed case-insensitive search using `grep -i`  
+9. Displayed count of matching lines per file using `grep -c`  
+10. Displayed lines starting with a specific character using `grep ^`  
+11. Displayed all lines with line numbers  
+12. Defined alias `lsal`  
+13. Removed the alias using `unalias`  
+14. Verified alias removal  
+15. Preserved alias for next session by storing it in configuration file  
+16. Confirmed alias persists after logout/login  
+17. Defined custom alias `nwho` to count system user accounts  
+18. Executed `nwho` alias  
+19. Listed command history using `history`  
+20. Re-executed the last command  
+21. Re-executed the third previous command  
+22. Re-executed the last command starting with a specific letter  
+
+---
+
+## 🛠️ Commands Practiced  
+
+- `mkdir` – Create directories  
+- `cd` – Navigate directories  
+- `cat` – Create and display files  
+- `grep` – Search and filter text  
+- `alias` / `unalias` – Create and remove command shortcuts  
+- `history` – Display previously executed commands  
+- `!` – Re-execute previous commands  
+
+---
+
+## ✅ Conclusion  
+
+This workshop demonstrated the practical use of essential UNIX utilities for file handling, text processing, and command-line customization. The `grep` command enhanced text searching and analysis skills, while alias creation improved productivity by reducing repetitive typing.  
+
+Additionally, command history features helped in efficiently re-executing previous commands. Overall, this logbook strengthened understanding of the UNIX command-line environment and built a solid foundation for advanced system administration and software development tasks.
 
 
 ## 🧪 Usage
